@@ -1,5 +1,5 @@
-# Expert2024
-Эксперт дел и поступков ORIX
+# Orix_Expert_2024
+__Эксперт дел и поступков ORIX__
 
 ![Screenshot](screenshot1.png)
 
